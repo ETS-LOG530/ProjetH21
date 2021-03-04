@@ -115,7 +115,7 @@ Ajustez/étendez les tests du projet pour préserver leur efficacité et leur co
 <a name="partie5"></a>
 ### Partie 5 : Bonus (Optionnelle)
 Vous pouvez avoir un bonus allant jusqu'à 10 points si vous faites une (ou plusieurs) des tâches de réingénierie optionnelles suivantes : 
-1.	Réussir à faire/contribuer à un ou plusieurs Pull Requests avec des refactorings/tests/changements sur le référentiel de [GanttProject sur Github] (https://github.com/bardsoftware/ganttproject/pulls)
+1.	Réussir à faire/contribuer à un ou plusieurs Pull Requests avec des refactorings/tests/changements sur le référentiel de [GanttProject sur Github](https://github.com/bardsoftware/ganttproject/pulls)
 2.	Réussir à faire/contribuer/résoudre un ou plusieurs Issues sur le Issue Track System [GanttProject sur Github](https://github.com/bardsoftware/ganttproject/issues).
 3.	Implémenter et tester la fonctionnalité sélectionnée. 
 Idéalement (mais pas nécessairement), le pull request ou le issue sera révisé et fusionné par l'un des développeurs actuels du projet.
