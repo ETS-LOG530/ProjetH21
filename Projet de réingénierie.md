@@ -92,7 +92,7 @@ Il sera important de re-penser la suite de tests de manière à ce qu'elle puiss
 ### Partie 3 : Gestion
 
 <p align="center">
-  <img src="figs/gestion.png?raw=true" alt="Gestion de projet"  width="300" height="200"/>
+  <img src="figs/gestion.png?raw=true" alt="Gestion de projet"  width="400" height="300"/>
 </p>
 
 
