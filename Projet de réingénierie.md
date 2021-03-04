@@ -71,7 +71,7 @@ Il n'est pas considéré comme une bonne pratique de faire des gros commits avec
 ### Partie 1 : Rétro-ingénierie
 
 <p align="center">
-  <img src="figs/retro?raw=true" alt="Rétro-ingénierie"/>
+  <img src="https://github.com/ETS-LOG530/ProjetH21/blob/main/figs/retro.png?raw=true" alt="Rétro-ingénierie"/>
 </p>
 
 Décrivez la conception actuelle de la fonctionnalité sélectionnée dans GanttProject. Indiquez clairement comment cette partie se situe dans l'architecture du projet.
