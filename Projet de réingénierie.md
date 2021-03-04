@@ -71,7 +71,7 @@ Il n'est pas considéré comme une bonne pratique de faire des gros commits avec
 ### Partie 1 : Rétro-ingénierie
 
 <p align="center">
-  <img src="https://github.com/ETS-LOG530/ProjetH21/blob/main/figs/retro.png?raw=true" alt="Rétro-ingénierie"/>
+  <img src="figs/retro.png?raw=true" alt="Rétro-ingénierie"/>
 </p>
 
 Décrivez la conception actuelle de la fonctionnalité sélectionnée dans GanttProject. Indiquez clairement comment cette partie se situe dans l'architecture du projet.
@@ -92,7 +92,7 @@ Il sera important de re-penser la suite de tests de manière à ce qu'elle puiss
 ### Partie 3 : Gestion
 
 <p align="center">
-  <img src="figs/gestion?raw=true" alt="Gestion de projet"/>
+  <img src="figs/gestion.png?raw=true" alt="Gestion de projet"/>
 </p>
 
 
@@ -104,12 +104,12 @@ Organiser le travail à faire entre les membres de l’équipe et estimer l'effo
 ### Partie 4 : Refactoring
 
 <p align="center">
-  <img src="figs/refactoring?raw=true" alt="Refactoring"/>
+  <img src="figs/refactoring.jpeg?raw=true" alt="Refactoring"/>
 </p>
 
 Refactoriser l'implémentation actuelle de GanttProject de sorte qu'il puisse gérer l'une des nouvelles fonctionnalités.
 
-Ajuster / étendre les tests du projet pour préserver leur efficacité et leur couverture pendant et après le refactoring.
+Ajustez/étendez les tests du projet pour préserver leur efficacité et leur couverture pendant et après le refactoring.
 
 
 
