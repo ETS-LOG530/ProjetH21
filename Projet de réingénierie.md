@@ -104,7 +104,7 @@ Organiser le travail à faire entre les membres de l’équipe et estimer l'effo
 ### Partie 4 : Refactoring
 
 <p align="center">
-  <img src="figs/refactoring.jpeg?raw=true" alt="Refactoring"/>
+  <img src="figs/refactoring.jpeg?raw=true" alt="Refactoring" style="width:500px;height:600px;"/>
 </p>
 
 Refactoriser l'implémentation actuelle de GanttProject de sorte qu'il puisse gérer l'une des nouvelles fonctionnalités.
