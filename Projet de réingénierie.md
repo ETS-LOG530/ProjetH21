@@ -92,7 +92,7 @@ Il sera important de re-penser la suite de tests de manière à ce qu'elle puiss
 ### Partie 3 : Gestion
 
 <p align="center">
-  <img src="figs/gestion.png?raw=true" alt="Gestion de projet"/>
+  <img src="figs/gestion.png?raw=true" alt="Gestion de projet"  width="300" height="200"/>
 </p>
 
 
@@ -104,7 +104,7 @@ Organiser le travail à faire entre les membres de l’équipe et estimer l'effo
 ### Partie 4 : Refactoring
 
 <p align="center">
-  <img src="figs/refactoring.jpeg?raw=true" alt="Refactoring" width="200" height="300"/>
+  <img src="figs/refactoring.jpeg?raw=true" alt="Refactoring"/>
 </p>
 
 Refactoriser l'implémentation actuelle de GanttProject de sorte qu'il puisse gérer l'une des nouvelles fonctionnalités.
