@@ -11,6 +11,7 @@
 	- [Partie 2 : Conception](#partie2)
 	- [Partie 3 : Gestion](#partie3)
 	- [Partie 4 : Refactoring](#partie4)
+	- [Partie 5 : Bonus (Optionnelle)](#partie5)
 5. [Guide](#guide)
 6. [Évaluation](#evaluation)
 7. [Rapport du projet](#rapport)
@@ -92,7 +93,7 @@ Il sera important de re-penser la suite de tests de manière à ce qu'elle puiss
 ### Partie 3 : Gestion
 
 <p align="center">
-  <img src="figs/gestion.png?raw=true" alt="Gestion de projet"  width="400" height="300"/>
+  <img src="figs/gestion.png?raw=true" alt="Gestion de projet"  width="400" height="280"/>
 </p>
 
 
@@ -111,6 +112,13 @@ Refactoriser l'implémentation actuelle de GanttProject de sorte qu'il puisse g�
 
 Ajustez/étendez les tests du projet pour préserver leur efficacité et leur couverture pendant et après le refactoring.
 
+<a name="partie5"></a>
+### Partie 5 : Bonus (Optionnelle)
+Vous pouvez avoir un bonus allant jusqu'à 10 points si vous faites une (ou plusieurs) des tâches de réingénierie optionnelles suivantes : 
+1.	Réussir à faire/contribuer à un ou plusieurs Pull Requests avec des refactorings/tests/changements sur le référentiel de [GanttProject sur Github] (https://github.com/bardsoftware/ganttproject/pulls)
+2.	Réussir à faire/contribuer/résoudre un ou plusieurs Issues sur le Issue Track System [GanttProject sur Github](https://github.com/bardsoftware/ganttproject/issues).
+3.	Implémenter et tester la fonctionnalité sélectionnée. 
+Idéalement (mais pas nécessairement), le pull request ou le issue sera révisé et fusionné par l'un des développeurs actuels du projet.
 
 
 <a name="guide"></a>
@@ -157,8 +165,6 @@ Les aspects que nous aimons généralement voir abordés dans le rapport sont le
 
 
 **NB.** Il est possible de soumettre vos propres propositions de projets. Ces propositions seront approuvées si elles représentent un projet de réingénierie bien définit basée sur les techniques de réingénierie présentées lors des séances de laboratoires et du cours. Par exemple, vous pouvez toujours proposer de faire la réingénierie sur un autre système logiciel (un système logiciel que vous avez développé dans votre stage, projet implémenté pour un autre cours ou projet de fin d’études, etc.).
-
-
 
 
 <a name="conditions"></a>
