@@ -159,7 +159,7 @@ Les aspects que nous aimons généralement voir abordés dans le rapport sont le
 - **Gestion de projet** : démontrer comment vous avez organisé le travail et comment vous le contrôlez (au lieu d’un travail qui vous contrôle !)
 	-	**Portée** : quelles sont les limites de votre projet ? Qu'est-ce qui n'est pas inclus dans le projet ?
 	-	**Risques** : Quels risques ont été envisagés et lesquels ont été atténués ? Quelle est la priorité des risques qui doivent encore être atténués ? Par exemple, quelles dépendances externes pourraient avoir une incidence sur votre résultat ? Quelles alternatives avez-vous préparées au cas où ce risque s’instaurerait ?
--	Réingénierie du logiciel :
+-	**Réingénierie du logiciel** :
 	-	**Les tests** : Comment pouvez-vous vérifier que vous répondez aux exigences ? Quelle stratégie de test avez-vous choisie et quels sont les arguments pour cette sélection ? Dans quelle mesure êtes-vous convaincu que votre solution répond aux exigences ?
 	-	**Assurance qualité** : quelles sont les exigences non fonctionnelles ? Par exemple, comment différenciez-vous une bonne et une mauvaise solution ?
 
