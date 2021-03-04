@@ -81,7 +81,7 @@ Décrivez la conception actuelle de la fonctionnalité sélectionnée dans Gantt
 
 
 <p align="center">
-  <img src="figs/conception?raw=true" alt="Conception"/>
+  <img src="figs/conception.png?raw=true" alt="Conception"/>
 </p>
 
 Introduire une conception générique qui décrit comment la nouvelle fonctionnalité doit être intégrée et comment la conception gère l'interaction avec le reste du système. Il doit être clair que les types de changements faits peuvent être facilement étendus par la suite.
