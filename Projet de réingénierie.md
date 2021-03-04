@@ -46,7 +46,7 @@ Veuillez faire attention aux instructions suivantes. Vous devez envoyer un courr
 
 - **Objet du courriel** : [LOG530] Projet - GanttProject" si vous avez l'intention de travailler sur ce logiciel suggéré, ou "[LOG530] Projet Spécifique" pour une proposition de projet personnalisée. Veuillez essayer de me contacter avant la date limite (11 mars 2021) si vous souhaitez travailler sur un projet personnalisé.
 - **Corps du courriel** : Le numéro de l'équipe, la liste des noms et codes permanents des membres de votre équipe (y) compris le vôtre). N'oubliez pas, un maximum de 3 personnes mais vous êtes autorisé à travailler avec moins de 3 si vous le souhaitez (par exemple, si vous voulez travailler sur un projet confidentiel).
-- **Justification** : Si vous choisissez de travailler sur un projet personnalisé (différent de GanttProject), vous devez motiver ou expliquer pourquoi ce projet vous permettrait de démontrer vos compétences en réingénierie. (Veuillez vous référer à la Section [Rapport du projet](rapport) pour plus de détails)
+- **Justification** : Si vous choisissez de travailler sur un projet personnalisé (différent de GanttProject), vous devez motiver ou expliquer pourquoi ce projet vous permettrait de démontrer vos compétences en réingénierie. (Veuillez vous référer à la Section [Rapport du projet](#rapport) pour plus de détails)
 
 
 Afin de travailler sur ce projet de réingénierie, veuillez considérez les instructions suivantes :
