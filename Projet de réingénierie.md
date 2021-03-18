@@ -138,7 +138,7 @@ En ce qui concerne la partie refactoring, il est important d’utiliser les test
 ## 6. Évaluation
 
 Pour montrer que vous avez réussi le projet, vous devrez démontrer ce qui suit :
-Vous avez les connaissances nécessaires pour planifier et sélectionner les patrons de réingénierie appropriés pour les différentes activités de votre projet.
+- Vous avez les connaissances nécessaires pour planifier et sélectionner les patrons de réingénierie appropriés pour les différentes activités de votre projet.
 - Vous avez fait une sélection de techniques d'analyse. Par exemple, l'analyse de code dupliqué, l'explorations de répertoire de code, mesure des métriques de qualité et visualisation, assistants de refactoring comme vu dans les sessions de laboratoires, mais d'autres techniques complémentaires ou alternatives sont également encouragées, et vous avez appliqué ces techniques de manière saine et systématique. Vous avez clairement expliqué (à l'aide des captures d'écran, des résultats de l'interprétation des outputs des outils) comment vous avez utilisé les résultats de ces techniques d'analyse.
 - Vous avez effectué les 4 activités ci-dessus (décomposées en (1) recouvrement de la conception via la rétro-ingénierie, (2) conception, (3) gestion, et (4) refactoring) et en avez discuté dans votre rapport de projet.
 - Les restructurations que vous avez appliqué préservent le comportement.
