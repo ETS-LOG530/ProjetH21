@@ -53,7 +53,7 @@ Afin de travailler sur ce projet de réingénierie, veuillez considérez les ins
 
 - Faites un Fork du répertoire de [GanttProject sur Github](https://github.com/bardsoftware/ganttproject) et faites un clone lu code source pour que votre équipe. Dans la page de [documentation](https://docs.ganttproject.biz/development/build/), vous pouvez trouver les instructions supplémentaires sur la façon de construire GanttProject (adaptez-vous en conséquence, car de nombreux projets open source sont un peu négligents pour garder leur documentation à jour).
 - Tous les membres de votre équipe doivent être ajoutés au érertoire Github en tant que collaborateurs.
-- Ajoutez votre enseignant en tant que collaborateur à votre repertoire (voici l'[ID GitHub de votre enseignant](https://github.com/ouniali)).
+- Ajoutez votre enseignant (Ali Ouni) en tant que collaborateur à votre repertoire (voici l'[ID GitHub de votre enseignant](https://github.com/ouniali)).
 - Faites des commits de vos changements régulièrement en fournissant des informations sur l'activité réalisée. Toute activité spécifique nécessitant une modification de fichiers doit être intégrée dans un commit spécifique avec une description simple de la tache de maintenance effectuée. Par exemple, si vous changez le système pour supprimer un « God Class », votre commit serait:
 `` Refactoring God Class`` ou ``correction de God Class (Extraire une classe)`` ou ``correction de God Class (suppression du code dupliqué)``
 si vous introduisez de nouveaux tests:
