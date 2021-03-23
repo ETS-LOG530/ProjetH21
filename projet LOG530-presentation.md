@@ -1,7 +1,7 @@
 ## Cours LOG530 : Réingénierie du logiciel
 ### Session : Hiver 2021
 ### Présentation du projet
-#### Date de remise : 8 avril à 13h00
+#### Date de remise :  7 avril 2021 à 23h59
 
 #### Table des matières
 1. [Description et réglements](#description)
@@ -70,7 +70,7 @@ Vous êtes encouragés à discuter du laboratoire et à poser vos questions en u
 
 <a name="remise"></a>
 ## 7. Remise
-Le travail doit être remis électroniquement sur Moodle au plus tard le **8 avril à 13h00**. Vous devrez remettre un fichier ``Power Point`` ou ``PDF`` pour votre présentation ou une archive ``zip`` ou ``tar.gz`` contenant tous les fichiers (si vous avez plusieurs fichiers).
+Le travail doit être remis électroniquement sur Moodle au plus tard le **7 avril 2021 à 23h59**. Vous devrez remettre un fichier ``Power Point`` ou ``PDF`` pour votre présentation ou une archive ``zip`` ou ``tar.gz`` contenant tous les fichiers (si vous avez plusieurs fichiers).
 Pour faciliter la correction, vous devez nommer vos fichiers de la façon suivante :
 
 
