@@ -108,9 +108,8 @@ Organiser le travail à faire entre les membres de l’équipe et estimer l'effo
   <img src="figs/refactoring.jpeg?raw=true" alt="Refactoring"/>
 </p>
 
-Refactoriser l'implémentation actuelle de GanttProject de sorte qu'il puisse gérer l'une des nouvelles fonctionnalités.
-
-Ajustez/étendez les tests du projet pour préserver leur efficacité et leur couverture pendant et après le refactoring.
+1. Refactoriser l'implémentation actuelle de GanttProject de sorte qu'il puisse gérer l'une des nouvelles fonctionnalités.
+2. Ajustez/étendez les tests du projet pour préserver leur efficacité et leur couverture pendant et après le refactoring.
 
 <a name="partie5"></a>
 ### Partie 5 : Bonus (Optionnelle)
