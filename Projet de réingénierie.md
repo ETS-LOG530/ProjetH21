@@ -125,7 +125,7 @@ Idéalement (mais pas nécessairement), le pull request ou le issue sera révis�
 ## 5. Guide
 Vous devrez effectuer un certain nombre de techniques que vous avez utilisé lors des séances des laboratoires et/ou expliqués dans le cours. Ceux-ci sont :
 -	Analyse : Analyse de code dupliqué, mesures de qualité et visualisation, exploration des répertoires de code, etc.
-•	Restructuration : Tests, refactoring, etc.
+-	Restructuration : Tests, refactoring, etc.
 
 Ce projet met l'accent sur une analyse saine et systématique du problème présenté, de l'espace de solutions possibles et de la (ou des) solution(s) choisie(s). Les séances de laboratoires et du cours théorique sont conçues de manière à vous préparer à un tel projet. Vous êtes encouragé à évaluer les avantages et les inconvénients des techniques présentées dans les séances de laboratoires et à exploiter les techniques d'analyse avec un aspect critique. Vous êtes encouragé également à utiliser des techniques d'analyse alternatives avec d’autres outils existants.
 
